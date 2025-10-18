@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./wave flipped.svg" alt="wavy gradient banner" width="100%">
+  <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/wave flipped.svg" alt="flipped animated wave" width="100%">
 </p>
+
 
 ```yaml
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚ 
@@ -69,5 +70,6 @@
 ![Snake animation](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="./wave.svg" alt="wavy gradient banner" width="100%">
+  <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/wave.svg" alt="animated wave" width="100%">
 </p>
+
