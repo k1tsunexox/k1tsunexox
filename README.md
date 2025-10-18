@@ -3,14 +3,23 @@
        /)        /)
       ( ⸝⸝> . <⸝⸝ )〝₎₎ 𝙸𝙽𝚃𝚁𝙾 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴  ✦₊ ˊ˗ 
 . .╭∪──∪────────── ✦ ⁺.
-. .┊ ◟﹫ 𝙽𝙰𝙼𝙴 : AUTUMN TANDOG
-. .┊ ⨳゛𝙽𝙸𝙲𝙺𝙽𝙰𝙼𝙴 : AKI
-. .┊﹒𐐪 𝙰𝙶𝙴 : 20
-. .┊ꜝꜝ﹒𝙿𝚁𝙾𝙽𝙾𝚄𝙽𝚂 : SHE / HER
-. .┊ ⨳゛𝙶𝙴𝙽𝙳𝙴𝚁 : FEMALE
-. .┊ ◟ヾ 𝙻𝙸𝙺𝙴𝚂 : JAVA / PYTHON { iced americano }
-. .┊﹒𐐪 𝙳𝙸𝚂𝙻𝙸𝙺𝙴𝚂 : C++ :D
-. .┊ ◟﹫ 𝙴𝚇𝚃𝚁𝙰 : pls be nice
+. .┊ ◟﹫ name : autumn phenelope tandog
+. .┊ ⨳゛nickname : aki
+. .┊﹒𐐪 age : 20
+. .┊ꜝꜝ﹒education : bachelor's in computer engineering
+. .┊                self - taught front-end developer
+. .┊                acquired skills in web development
+. .┊ 
+. .┊ ⨳゛fields_of_interests : ["Web Development"
+. .┊                           "Data Science"
+. .┊                           "Machine Learning"
+. .┊                           "Robotics"
+. .┊                           "Cloud"
+. .┊                           "Internet of Things"
+. .┊                           "Game Development"
+. .┊                           "Cybersecurity"'
+. .┊
+. .┊ ◟ヾ misc likes : JAVA / PYTHON { iced americano }
    ╰─────────────  ✦ ⁺.
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚
 ```
