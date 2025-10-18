@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./wave flipped.svg" alt="wavy gradient banner" width="100%">
+</p>
+
 ```yaml
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚ 
        /)        /)
@@ -60,6 +64,10 @@
 
 <h5> ──★ ˙ &nbsp;​🇦​​🇱​​🇱​ ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​: </h5>
 
-[![codecov](https://codecov.io/gh/k1tsunexox/REPO-NAME/branch/master/graph/badge.svg)](https://codecov.io/gh/k1tsunexox/REPO-NAME)
+
 
 ![Snake animation](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="./wave.svg" alt="wavy gradient banner" width="100%">
+</p>
