@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/wave-flipped.svg" alt="flipped animated wave" width="100%">
+  <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/waveflipped.svg" alt="flipped animated wave" width="100%">
 </p>
 
 
