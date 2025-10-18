@@ -2,13 +2,14 @@ name: Jest Test & Coverage
 
 on:
   push:
-    branches: main
+    branches: [ main ]
   pull_request:
-    branches: main
+    branches: [ main ]
 
 jobs:
   coverage:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -27,7 +28,7 @@ jobs:
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v5
         with:
-          token: ${{ secrets.CODECOV_TOKEN }} # remove if public repo
+          token: ${{ secrets.CODECOV_TOKEN }} # remove this if public repo
           files: ./coverage/lcov.info
           fail_ci_if_error: true
           verbose: true
