@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**k1tsunexox/k1tsunexox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚
+       /)        /)
+      ( ⸝⸝> . <⸝⸝ )〝₎₎ 𝙸𝙽𝚃𝚁𝙾 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴  ✦₊ ˊ˗ 
+. .╭∪──∪────────── ✦ ⁺.
+. .┊ ◟﹫ 𝙽𝙰𝙼𝙴 : AUTUMN TANDOG
+. .┊ ⨳゛𝙽𝙸𝙲𝙺𝙽𝙰𝙼𝙴 : AKI
+. .┊﹒𐐪 𝙰𝙶𝙴 : 20
+. .┊ꜝꜝ﹒𝙿𝚁𝙾𝙽𝙾𝚄𝙽𝚂 : SHE / HER
+. .┊ ⨳゛𝙶𝙴𝙽𝙳𝙴𝚁 : FEMALE
+. .┊ ◟ヾ 𝙻𝙸𝙺𝙴𝚂 : JAVA / PYTHON { iced americano }
+. .┊﹒𐐪 𝙳𝙸𝚂𝙻𝙸𝙺𝙴𝚂 : C++ :D
+. .┊ ◟﹫ 𝙴𝚇𝚃𝚁𝙰 : pls be nice
+   ╰─────────────  ✦ ⁺.
+⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚
