@@ -41,7 +41,7 @@
 
 </div>
 
-<h5> ౨ৎ &nbsp;​🇸​​🇴​​🇲​​🇪​ ​🇸​​🇹​​🇺​​🇫​​🇫​ ​🇮​ ​🇵​​🇱​​🇦​​🇾​​🇪​​🇩​ ​🇼​​🇮​​🇹​​🇭​</h5> 
+<h5> ⌗ &nbsp;​🇸​​🇴​​🇲​​🇪​ ​🇸​​🇹​​🇺​​🇫​​🇫​ ​🇮​ ​🇵​​🇱​​🇦​​🇾​​🇪​​🇩​ ​🇼​​🇮​​🇹​​🇭​</h5> 
 
 <p align="left">
        
@@ -62,7 +62,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />
 
-<h5> ──★ ˙ &nbsp;​🇦​​🇱​​🇱​ ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​: </h5>
+<h5> ⌗ &nbsp;​🇦​​🇱​​🇱​ ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​: </h5>
+
+<h2> 𓂃 ࣪˖ &nbsp;​ᴍʏ ɢɪᴛʜᴜʙ ʜɪꜱᴛᴏʀʏ .ᐟ </h2>
 
 ![GitHub Snake](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/snake.svg)
   
