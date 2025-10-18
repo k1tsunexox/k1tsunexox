@@ -24,7 +24,18 @@
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚
 ```
 
-<h3> ౨ৎ &nbsp;some stuff i played around with </h3> 
+
+<div align="center">
+
+｡･:*˚:✧｡ **now playing** ｡✧:˚*:･｡  
+╭───────────────⋆⋅☆⋅⋆───────────────╮    
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y1bh98oitef9t2givk0q49b4r&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=y1bh98oitef9t2givk0q49b4r&redirect=true)
+╰───────────────⋆⋅☆⋅⋆───────────────╯  
+₊˚⊹♡₊˚ ︶꒦꒷♡꒷꒦︶ ₊˚⊹♡₊˚
+
+</div>
+
+<h5> ౨ৎ &nbsp;​🇸​​🇴​​🇲​​🇪​ ​🇸​​🇹​​🇺​​🇫​​🇫​ ​🇮​ ​🇵​​🇱​​🇦​​🇾​​🇪​​🇩​ ​🇼​​🇮​​🇹​​🇭​</h5> 
 
 <p align="left">
        
@@ -41,10 +52,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
           
 
-<h3> ⊹ &nbsp; stuff i'm currently learning: </h3>
+<h5>⌗ &nbsp;​🇸​​🇹​​🇺​​🇫​​🇫​ ​🇮​❜​🇲​ ​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ </h5>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />
 
-</p>
+<h5> ──★ ˙ &nbsp;​🇦​​🇱​​🇱​ ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​: </h5>
 
 ![Snake animation](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/github-contribution-grid-snake.svg)
