@@ -1,4 +1,5 @@
 name: generating data
+
 permissions:
   contents: write
 
