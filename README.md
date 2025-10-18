@@ -10,14 +10,14 @@
 . .┊                self - taught front-end developer
 . .┊                acquired skills in web development
 . .┊ 
-. .┊ ⨳゛fields_of_interests : ["Web Development"
-. .┊                           "Data Science"
-. .┊                           "Machine Learning"
-. .┊                           "Robotics"
-. .┊                           "Cloud"
-. .┊                           "Internet of Things"
-. .┊                           "Game Development"
-. .┊                           "Cybersecurity"]
+. .┊ ⨳゛fields_of_interests :  Web Development
+. .┊                           Data Science
+. .┊                           Machine Learning
+. .┊                           Robotics
+. .┊                           Cloud
+. .┊                           Internet of Things
+. .┊                           Game Development
+. .┊                           Cybersecurity
 . .┊
 . .┊ ◟ヾ misc likes : JAVA / PYTHON { iced americano }
    ╰─────────────  ✦ ⁺.
