@@ -1,8 +1,8 @@
 name: generating data
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "* */12 * * *" # every 12 hours
   workflow_dispatch: {}
 
 jobs:
@@ -10,7 +10,8 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@master
         id: snake-gif
         with:
