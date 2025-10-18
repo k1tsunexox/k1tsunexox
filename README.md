@@ -46,6 +46,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />
 
 </p>
-
-![Snake animation](https://github.com/thepiyushmalhotra/k1tsunexox/blob/output/github-contribution-grid-snake.svg)
-
