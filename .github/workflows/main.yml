@@ -1,4 +1,6 @@
 name: generating data
+permissions:
+  contents: write
 
 on:
   schedule:
