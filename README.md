@@ -30,6 +30,7 @@
 ｡･:*˚:✧｡ **now playing** ｡✧:˚*:･｡  
 ╭───────────────⋆⋅☆⋅⋆───────────────╮    
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y1bh98oitef9t2givk0q49b4r&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=y1bh98oitef9t2givk0q49b4r&redirect=true)
+
 ╰───────────────⋆⋅☆⋅⋆───────────────╯  
 ₊˚⊹♡₊˚ ︶꒦꒷♡꒷꒦︶ ₊˚⊹♡₊˚
 
