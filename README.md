@@ -17,7 +17,7 @@
 . .┊                           "Cloud"
 . .┊                           "Internet of Things"
 . .┊                           "Game Development"
-. .┊                           "Cybersecurity"'
+. .┊                           "Cybersecurity"]
 . .┊
 . .┊ ◟ヾ misc likes : JAVA / PYTHON { iced americano }
    ╰─────────────  ✦ ⁺.
