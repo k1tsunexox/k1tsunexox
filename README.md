@@ -67,4 +67,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/wave.svg" alt="animated wave" width="100%">
 </p>
-
