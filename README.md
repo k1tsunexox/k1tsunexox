@@ -64,8 +64,7 @@
 
 <h5> ──★ ˙ &nbsp;​🇦​​🇱​​🇱​ ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​: </h5>
 
-![Snake animation](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/github-contribution-grid-snake.svg)
-<p align="center">
+![GitHub Snake](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/snake.svg)
   
   <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/wave.svg" alt="animated wave" width="100%">
 </p>
