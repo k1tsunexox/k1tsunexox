@@ -37,7 +37,7 @@
 
 </div>
 
-<h2> <div align="left">⌗ &nbsp;​🇸​​🇴​​🇲​​🇪​ ​🇸​​🇹​​🇺​​🇫​​🇫​ ​🇮​ ​🇵​​🇱​​🇦​​🇾​​🇪​​🇩​ ​🇼​​🇮​​🇹​​🇭 ​</h2>
+<h2> <div align="left">⌗ &nbsp;​ Programs I learned ​</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
@@ -46,11 +46,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 
-<h2> <div align="right"> ⌗ &nbsp;​🇸​​🇹​​🇺​​🇫​​🇫​ ​🇮​❜​🇲​ ​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇱​​🇪​​🇦​​🇷​​🇳​​🇮​​🇳​​🇬​ </h2>
+<h2> <div align="right"> ⌗ &nbsp;​ Programs I am currently learning </h2>
 <p align="right">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />
 </div>
-<h2> ⌗ &nbsp;​🇦​​🇱​​🇱​ ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇹​​🇷​​🇮​​🇧​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​: </h2>
+<h2> ⌗ &nbsp;​ contributions​: </h2>
 
 ![GitHub Snake](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/snake.svg)
 <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/wave.svg" alt="animated wave" width="100%">
