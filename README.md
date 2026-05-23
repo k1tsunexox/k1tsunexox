@@ -7,10 +7,10 @@
        /)        /)
       ( ⸝⸝> . <⸝⸝ )〝₎₎          ✦₊ ˊ˗ 
 . .╭∪──∪────────── ✦ ⁺.
-. .┊ ◟﹫ name : autumn phenelope tandog
+. .┊ ◟﹫   name : autumn phenelope tandog
 . .┊ ⨳゛  nickname : aki
 . .┊﹒𐐪     age : 21
-. .┊ꜝꜝ﹒     education : bachelor's in computer engineering
+. .┊ꜝꜝ﹒    education :    bachelor's in computer engineering
 . .┊                     self - taught front-end developer
 . .┊                     acquired skills in web development
 . .┊ 
@@ -27,15 +27,7 @@
    ╰─────────────  ✦ ⁺.
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚
 ```
-
-<div align="left"> &nbsp;<p>
-
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=k1tsunexox&show_icons=true&locale=en" alt="k1tsunexox" width="400px"/></p>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=y1bh98oitef9t2givk0q49b4r&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=y1bh98oitef9t2givk0q49b4r&redirect=true)
-
-</div>
 
 <h2> <div align="left">⌗ &nbsp;​ Programs I learned ​</h2>
 <p align="left">
@@ -50,9 +42,7 @@
 <p align="right">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45" />
 </div>
-<h2> ⌗ &nbsp;​ contributions​: </h2>
 
-![GitHub Snake](https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/output/snake.svg)
 <img src="https://raw.githubusercontent.com/k1tsunexox/k1tsunexox/main/wave.svg" alt="animated wave" width="100%">
 </p>
 
