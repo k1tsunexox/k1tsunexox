@@ -22,8 +22,7 @@
 . .┊                           Internet of Things
 . .┊                           Game Development
 . .┊                           Cybersecurity
-. .┊
-. .┊ ◟ヾ misc likes : JAVA / PYTHON { iced americano }
+. .┊ ◟ヾ 
    ╰─────────────  ✦ ⁺.
 ⧣₊˚﹒✦₊  ⧣₊˚  𓂃★    ⸝⸝ ⧣₊˚﹒✦₊  ⧣₊˚
 ```
